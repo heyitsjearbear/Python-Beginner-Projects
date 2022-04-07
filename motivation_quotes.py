@@ -1,3 +1,8 @@
+"""
+Python script sends windows toast notifications
+displaying pre-loaded motivational quotes. The duration
+of the notification can be edited in the code.
+"""
 from win10toast import ToastNotifier
 import os, os.path
 from PIL import Image
