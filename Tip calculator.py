@@ -1,3 +1,9 @@
+"""
+This simple python script calculates a user's bill total based on 
+a user's subtotal and what the user wants to tip as a percentage.
+"""
+
+
 #Asks for the user's total bill without tip and what percent they want to add for tip
 bill = float(input("Welcome to my tip calculator. What is your total bill without tip? $"))
 
