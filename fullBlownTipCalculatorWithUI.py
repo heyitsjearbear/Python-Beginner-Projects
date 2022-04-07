@@ -1,3 +1,6 @@
+"""
+Python script adds UI to original tip calculator I created
+"""
 #gets all the dependencies to run python script
 from tkinter import *
 import sqlite3
